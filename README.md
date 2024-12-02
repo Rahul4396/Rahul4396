@@ -11,7 +11,8 @@ I am a Final-year student pursuing Bachelor of Technology in Computer Science st
 <img 
     alt="GitHub Streak Stats Card" 
     src="https://github-readme-streak-stats.herokuapp.com/?user=Rahul4396&theme=radical" 
-    style="max-width: 100%; height: auto;" 
+    height="200px" 
+    width="400px" 
 />
 </p>
 <img height="200px" width="400" src="https://github-readme-stats.vercel.app/api?username=Rahul4396&count_private=true&theme=radical&show_icons=true"/>
