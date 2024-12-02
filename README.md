@@ -13,7 +13,7 @@
 
 <p align="center">
   <a href="https://github.com/Rahul4396">
-    <img alt="GitHub Streak" src="https://streak-stats.demolab.com?user=Rahul4396&theme=radical&hide_border=true" height="200px" width="400px" />
+    <img alt="GitHub Streak Stats" src="https://github-readme-streak-stats.herokuapp.com/?user=Rahul4396&theme=radical" />
   </a>
 </p>
 
