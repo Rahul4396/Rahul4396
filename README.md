@@ -8,12 +8,7 @@ I am a Final-year student pursuing Bachelor of Technology in Computer Science st
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=Rahul4396&label=Profile%20views&color=0e75b6&style=flat" alt="Rahul4396" /> </p>
 <p>
 <a align= "center" href="https://github.com/Rahul4396">
-<img 
-    alt="GitHub Streak Stats Card" 
-    src="https://github-readme-streak-stats.herokuapp.com/?user=Rahul4396&theme=radical" 
-    height="200px" 
-    width="400px" 
-/>
+![GitHub Streak Stats](https://github-readme-streak-stats.herokuapp.com/?user=Rahul4396&theme=radical)
 </p>
 <img height="200px" width="400" src="https://github-readme-stats.vercel.app/api?username=Rahul4396&count_private=true&theme=radical&show_icons=true"/>
 
