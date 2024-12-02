@@ -11,7 +11,7 @@ I am a Final-year student pursuing Bachelor of Technology in Computer Science st
 <img alt= "stats card" height="200px" width="400" src="https://github-readme-streak-stats.herokuapp.com/?user=Rahul4396&theme=radical">
 
 </p>
-<img height="200px" width="400" src="https://github-readme-stats.vercel.app/api?username=Rahul4396&count_private=true&theme=radical&  show_icons=true" />
+<img height="200px" width="400" src="https://github-readme-stats.vercel.app/api?username=Rahul4396 &count_private=true&theme=radical&  show_icons=true" />
 
 - 📫 How to reach me **rahulsh4396@gmail.com**
 <br><br>
