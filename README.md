@@ -38,5 +38,6 @@
 <hr>
 
 <p align="center">
-  <img src="https://github.com/Rahul4396/Rahul4396/raw/output/github-contribution-grid-snake.svg" alt="snake animation" />
+  <img src="https://raw.githubusercontent.com/Rahul4396/output/main/github-contribution-grid-snake.svg" alt="snake animation" />
 </p>
+
