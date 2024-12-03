@@ -37,7 +37,4 @@
 
 <hr>
 
-<p align="center">
-  <img alt="github-snake" src="github-snake.svg" />
-</p>
 
